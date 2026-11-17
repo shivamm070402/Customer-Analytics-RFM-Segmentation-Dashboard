@@ -4,7 +4,8 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Cleaning-blue) ![Python](https://img.shields.io/badge/Python-RFM%20Scoring-yellow) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-<p align="center"> <img src="image/Overview.png" alt="Business Overview Dashboard" width="100%"> </p> <table> <tr> <td width="50%"><img src="image/RFM.png" alt="RFM Analysis Dashboard"><p align="center"><b>RFM Analysis</b></p></td> <td width="50%"><img src="image/home.png" alt="Home Page"><p align="center"><b>Home & Navigation</b></p></td> </tr> </table>
+<p align="center"> <img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/4723eb1b-80cd-419f-8de1-16a245598664" />
+> </p> <table> <tr> <td width="50%"><img src="image/RFM.png" alt="RFM Analysis Dashboard"><p align="center"><b>RFM Analysis</b></p></td> <td width="50%"><img src="image/home.png" alt="Home Page"><p align="center"><b>Home & Navigation</b></p></td> </tr> </table>
 
 At a glance: 5,881 customers · $17.4M revenue · Champions (22% of customers) drive 68% of revenue · 50.9% churned
 ## Problem Statement
