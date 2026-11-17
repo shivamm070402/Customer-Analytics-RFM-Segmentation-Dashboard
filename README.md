@@ -103,5 +103,5 @@ Working end to end on this project, I practised cleaning large transactional dat
 
 ## Authors
 
-**Shivam Mohite** · [LinkedIn](www.linkedin.com/in/shivam-mohite-5389b6212) 
+**Shivam Mohite** 
 #
